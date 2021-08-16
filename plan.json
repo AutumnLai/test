@@ -1,8 +1,8 @@
 {
-	"name": "undefined",
-	"round": undefined,
-	"edge": undefined,
-	"EpR": undefined,
+	"name": "plan",
+	"round": 1,
+	"edge": 1,
+	"EpR": 1,
 	"timeout": 86400,
-	"pretrainModel": "undefined"
+	"pretrainModel": "master"
 }
